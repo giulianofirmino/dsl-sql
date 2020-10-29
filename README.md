@@ -1,2 +1,2 @@
 # dsl-sql
-DSL de queries Oracle
+DSL SQL based on QueryDSL SQL
